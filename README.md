@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there 👋 I'm Biswajeet</h1>
+<h1 align="center"> Hi there <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="28px"/> I'm Biswajeet</h1>
 
 <!--
 **biswa418/biswa418** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
