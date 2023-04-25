@@ -26,10 +26,8 @@ Here are some ideas to get you started:
 
 ### Languages :
 ![Java](https://img.shields.io/badge/java-black.svg?style=for-the-badge&logo=java&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-black.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-black.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=blue) 
-![HTML5](https://img.shields.io/badge/html5-black.svg?style=for-the-badge&logo=html5&logoColor=white) 
 
 ### Database & etc. : 
 ![AWS](https://img.shields.io/badge/AWS-black.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
@@ -43,6 +41,8 @@ Here are some ideas to get you started:
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) 
 
 ### Frontend :
+![HTML5](https://img.shields.io/badge/html5-black.svg?style=for-the-badge&logo=html5&logoColor=orange) 
+![CSS3](https://img.shields.io/badge/css3-black.svg?style=for-the-badge&logo=css3&logoColor=blue) 
 ![React](https://img.shields.io/badge/react-black.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![React Native](https://img.shields.io/badge/react_native-black.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-black.svg?style=for-the-badge&logo=bootstrap&logoColor=blue) 
