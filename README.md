@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ##  About Me 💫:
-🔭 I’m currently working in Data Engineering and Backend development field.<br>🌱 I’m currently learning ReactJS and React Native
+🔭 I’m currently working in Full stack development field.<br>🌱 I’m currently learning Go and React Native
 
 
 ##  Socials 🌐:
